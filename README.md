@@ -14,6 +14,6 @@ Sipei Liu, 2021212849, 210979262, jp2021212849@qmul.ac.uk
 
 Yuxuan Zhang, 2018212842,      , z.yuxuan@se18.ac.uk
 
-Xinglong Liu
+Xinglong Liu,2021212580,210976593,jp2021212580@qmul.ac.uk
 
 ## Assigned TA: Anyi ZHANG (zhanganyi@bupt.edu.cn)
